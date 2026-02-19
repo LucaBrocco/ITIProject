@@ -1,0 +1,12 @@
+### CELLS ###
+Starting cells: (0, 0)_
+Terminal cells: (7, 7)_
+Forbidden cells: (3, 3)_(4, 4)_(5, 5)_(6, 5)_(7, 3)_(6, 2)_(7, 4)_
+######
+best path is long: 14.0
+First MC episode (index) with best length: 3754
+At time: 77.86626625061035
+First SARSA episode (index) with best length: 180
+At time: 1.814239740371704
+First PILCO episode (index) with best length: None
+At time: None
