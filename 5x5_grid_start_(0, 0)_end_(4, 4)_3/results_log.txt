@@ -1,0 +1,12 @@
+### CELLS ###
+Starting cells: (0, 0)_
+Terminal cells: (4, 4)_
+Forbidden cells: (1, 1)_(4, 3)_(0, 4)_
+######
+best path is long: 8.0
+First MC episode (index) with best length: None
+At time: None
+First SARSA episode (index) with best length: 97
+At time: 0.04306650161743164
+First Bayesian Inference episode (index) with best length: 43
+At time: 10.468685626983643
